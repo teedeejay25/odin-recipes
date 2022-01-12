@@ -1,1 +1,2 @@
 # odin-recipes
+<!--This is a project from the Odin Project's Foundation lessons. It provided me with practice in creating lists, links, inserting images, and formatting my code for HTML. With my limited knowledge of HTML and CSS, the page is quite barren and simplistic, but includes all the necessary iterations.>
